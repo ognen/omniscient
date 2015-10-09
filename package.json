@@ -29,7 +29,7 @@
     "doxme": "git://github.com/mikaelbr/doxme#dev"
   },
   "optionalDependencies": {
-    "react-native": "^0.8.0"
+    "react-native": "^0.11.0"
   },
   "scripts": {
     "test": "mocha -R spec tests/**-test.js",
